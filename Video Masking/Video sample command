@@ -1,0 +1,2 @@
+python mask_rcnn_video2.py --input videos/Matt_Stephens_short_480p.mp4 \
+	--output output/Matt_Stephens__short_480p_output.avi --mask-rcnn mask-rcnn-coco

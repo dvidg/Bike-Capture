@@ -1,0 +1,3 @@
+These are the models based on the work of Adrian Rosebrock in: https://www.pyimagesearch.com/2018/11/19/mask-r-cnn-with-opencv/
+
+This model was trained and tested using a different implementation of Mask R-CNN - the 'stock' version provided with the GitHub link - but this submitted implementation is more suitable for uploading as it can be targeted to single images. The base trained model is the same as presented in my research paper. 
